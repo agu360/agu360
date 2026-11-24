@@ -1,60 +1,77 @@
 ## Hi, I’m Agustín 👋
 
-## Frontend Developer | Web Designer
+### Frontend Developer | UX/UI Designer
 
-Frontend developer in training, specialising in **HTML, CSS, JavaScript and React**.  
-I am currently developing practical projects and strengthening my knowledge through self-study.
+I’m a **Frontend Developer & UX/UI Designer** based in Valencia, Spain, focused on bridging the gap between user-centered design and clean, responsive code. 
 
-With a background in photography and visual composition, I bring strong attention to detail and a user-focused approach to interface design.
+Specialising in **HTML, CSS, JavaScript, and React**, I build functional web experiences while applying UX/UI principles—such as visual hierarchy, accessibility, and component-based architecture—from the earliest wireframe to production. With a background in audiovisual production and photography, I bring a sharp eye for visual composition and detail.
 
-I am a proactive and responsible person with strong adaptability, currently looking for my **first opportunity in the IT sector** where I can contribute to building functional and visually engaging web experiences.
+Currently looking for my **first opportunity in IT / Product**, where I can contribute to building intuitive and scalable digital products.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Design Tools
 
+**Frontend & Version Control**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**UX/UI & Visual Design**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Frontend Projects
 
 ### 📝 ToDoList App
-Interactive task manager built with vanilla JavaScript.
+Interactive task manager built with vanilla JavaScript focused on clean state management and usability.
+* ✔ Dynamic DOM manipulation & event handling
+* ✔ Data persistence via `localStorage`
+* ✔ Minimalist, distraction-free UI
 
-✔ DOM manipulation  
-✔ Event handling  
-✔ LocalStorage persistence  
-
-🔗 Demo: https://app-task-todo.netlify.app/  
-💻 Code: https://github.com/agu360
+🔗 [Live Demo](https://app-task-todo.netlify.app/) | 💻 [Source Code](https://github.com/agu360) *(Tip: cambia este link por el del repo específico)*
 
 ---
 
-### ❓ FAQ Page
-Interactive FAQ section with accordion functionality.
+### ❓ Interactive FAQ Component
+Accessible accordion component with smooth state transitions and mobile-first responsiveness.
+* ✔ Interactive toggle states with JavaScript
+* ✔ Keyboard & screen-reader friendly structure
+* ✔ Responsive layout
 
-✔ Toggle interaction with JavaScript  
-✔ Dynamic UI states  
-✔ Responsive layout  
-
-🔗 Demo: https://agu360.github.io/pageFAQ/
+🔗 [Live Demo](https://agu360.github.io/pageFAQ/)
 
 ---
 
-### 💬 Testimonial Page
-Responsive layout focused on visual hierarchy and modern CSS layout techniques.
+### 💬 Testimonial Grid Layout
+Responsive layout focused on visual hierarchy, typography scale, and modern CSS architecture.
+* ✔ CSS Grid & Flexbox layout system
+* ✔ Component-driven UI structure
+* ✔ Cross-device adaptability
 
-✔ Responsive design  
-✔ Flexbox / Grid layout  
-✔ Clean UI structure  
+🔗 [Live Demo](https://agustingrossso.github.io/Testimonial-Page/)
 
-🔗 Demo: https://agustingrossso.github.io/Testimonial-Page/
+---
+
+## 🎨 Selected UX/UI Design Work (Figma)
+
+Alongside coding, I design end-to-end digital products and interactive prototypes:
+* **🌱 EcoPath** — Sustainable accommodation booking app with gamified rewards (*Design Sprint*). [View Prototype](https://www.figma.com/proto/1V8ENES4aHf1X1ZStON8rr/EcoPath-App---PEC-02---Agust%C3%ADn?node-id=774-1191&t=KyS1yjC1Jc2T9VgS-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=774%3A1191)
+* **🎬 Semana del Cine (Valencia)** — High-conversion neo-brutalist landing page for a film festival. [View Live Site](https://semana-del-cine.figma.site)
+* **🦆 Duck Hunt Onboarding** — Mobile game UI kit, splash screen, and interactive onboarding flow. [View Prototype](https://www.figma.com/proto/OTqm4Vnj2H3XDPm6RT6Nqn/Modelo-Onboarding---Duck-Hunt---Agustin?node-id=256-10&t=1wSHACpSPFjDgLoP-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=256%3A2)
+
+---
+
+## 🌱 Currently Focused On
+* 🔭 Building my UX/UI & Frontend portfolio.
+* 📚 Studying **UX/UI Design at CEI Valencia** & completing the **Google UX Design Certificate**.
+* 🧩 Practicing component-driven UI development with **React**.
 
 ---
 
@@ -66,11 +83,8 @@ Responsive layout focused on visual hierarchy and modern CSS layout techniques.
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-grossoit-)
-
-💼 GitHub: https://github.com/agu360
-
-🌐 Portfolio: (coming soon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-grosso-ux-ui/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustingrosso.62@gmail.com)
 
 
 <!--
